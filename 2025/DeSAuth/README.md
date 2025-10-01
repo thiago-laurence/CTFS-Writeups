@@ -29,4 +29,8 @@ Los writeups de esta capeta corresponden a los CTF:
 
 ---
 
+### 4. String jacking
+- **Categoría:** Reversing
+
+---
  
