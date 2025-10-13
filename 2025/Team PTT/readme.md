@@ -1,9 +1,9 @@
 # Team PTT
 
 ## Integrantes
-- Ulises Pereira 
-- Tobias Garcia  
-- Gastón Triviño 
+- Ulises Pereira 02981/3
+- Tobias Garcia 02750/8 
+- Gastón Triviño 02997/2
 
 ##  Datos de los CTFs
 
