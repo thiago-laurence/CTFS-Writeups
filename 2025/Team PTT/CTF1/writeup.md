@@ -104,3 +104,9 @@ La vulnerabilidad radica en una **falla en el enforcement de scopes OAuth**:
 ## Resultado
 
 **Flag obtenida**: `poctf{uwsp_4_fr13nd_1n_n33d_15_4_fr13nd_1nd33d}`
+
+### Ejecucion del script
+Es necesario instalar la libreria request
+```bash
+pip install requests
+```
