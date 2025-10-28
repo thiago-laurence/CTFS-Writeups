@@ -5,7 +5,7 @@ Los writeups de esta capeta corresponden a los CTF:
 ## Integrantes:
 - **Camila Lorena García -  12990/6** ❤️
 - **José Ignacio Borrajo -  17949/1** 💫
-- **Austin Myles Barker  -  19299/4**💥
+- **Austin Myles Barker  -  19299/4** 💥
 
 # 🕵️‍♂️ Participación en CTF: Full Weak Engineer
 
